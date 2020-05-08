@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ed1be623df49ef946a60097b9cfda13d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - completeLevelUI: {instanceID: 0}
+  - dwarfPrefab: {fileID: 1566577968704552705, guid: 5f78b2609885b4874b15053745805cf4,
+      type: 3}
+  - dwarfCollider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
